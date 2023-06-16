@@ -68,7 +68,6 @@ body{
 .nav ul li:hover a .icon{
     transform: translateY(-50%);
     color: #2ecc71;
-    color: #2ecc71;
 }
 .nav ul li:hover a .text{
     opacity: 1;
