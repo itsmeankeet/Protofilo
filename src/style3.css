@@ -132,7 +132,7 @@ newslatter{
 	display: inline-block;
 	width: 100%;
 	padding: 14px 130px 14px 15px;
-	border: 2px solid FF00FF;
+	border: 2px solid #2ecc71;
 	outline: none;
 	border-radius: 30px;
 }
@@ -151,4 +151,5 @@ newslatter{
 }
 .bottom{
     margin-top: 75px;
+    float: left;
 }
